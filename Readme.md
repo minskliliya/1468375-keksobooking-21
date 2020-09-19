@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Лилия Ильина](https://up.htmlacademy.ru/javascript/21/user/1468375).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Волков](https://htmlacademy.ru/profile/id1508839).
 
 ---
 
